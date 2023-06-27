@@ -109,7 +109,7 @@ RectTransform:
   m_Children:
   - {fileID: 4785481571005572730}
   m_Father: {fileID: 0}
-  m_RootOrder: 6
+  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
@@ -785,7 +785,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4785481571005572730}
   - component: {fileID: 4042340054162218226}
-  - component: {fileID: 1993953960774643685}
+  - component: {fileID: 7890944122166457131}
   m_Layer: 0
   m_Name: Active Inventory
   m_TagString: Untagged
@@ -842,7 +842,7 @@ MonoBehaviour:
   m_Spacing: {x: 25, y: 0}
   m_Constraint: 0
   m_ConstraintCount: 2
---- !u!114 &1993953960774643685
+--- !u!114 &7890944122166457131
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
